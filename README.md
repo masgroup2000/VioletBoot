@@ -9,5 +9,5 @@ A high-performance, minimalist USB ISO burner for Linux. A fast alternative to R
 ## 🚀 Installation & Usage
 1. **Clone the Repo:**
    ```bash
-   git clone [https://github.com/masgroup2000/VioletBoot.git](https://github.com/masgroup2000/VioletBoot.git)
+   git clone https://github.com/masgroup2000/VioletBoot.git
    cd VioletBoot
