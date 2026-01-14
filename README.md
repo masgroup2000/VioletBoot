@@ -5,8 +5,8 @@ A high-performance, minimalist USB ISO burner for Linux. A fast alternative to R
 - **Ultra-Fast:** Written in Python using optimized `dd` logic.
 - **Safety-First:** Auto-filters for USB drives to prevent accidental wipes.
 - **Modern UI:** Clean, dark themed interface built with CustomTkinter.
-- **Lite Weight** only couple Mbin weight
-Getting Started
+- **Lite Weight** only couple Mb in size
+🚀 Getting Started
 1. Clone the Repo
 
 Bash
