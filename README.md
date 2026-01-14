@@ -1,32 +1,17 @@
 # ⚡ Violet Boot
-A high-performance, minimalist USB ISO burner for Linux. A fast alternative to Rufus and Etcher.
+**Fast & Minimalist USB ISO Burner for Linux.**
 
-##  Features
-- **Ultra-Fast:** Written in Python using optimized `dd` logic.
-- **Safety-First:** Auto-filters for USB drives to prevent accidental wipes.
-- **Modern UI:** Clean, dark themed interface built with CustomTkinter.
-- **Lite Weight** only couple Mb in size
-🚀 Getting Started
-1. Clone the Repo
+Violet Boot is a high performance tool built with Python and CustomTkinter to flash ISOs to USB hardware safely and quickly.
 
-Bash
+---
 
-git clone https://github.com/YOUR_USERNAME/VioletBoot.git
-cd VioletBoot
-2. Run the Setup Script This installs system dependencies (Tkinter) and Python libraries automatically.
+## 🚀 Quick Start (Copy & Paste)
 
-Bash
+Run this single block in your terminal to download, setup, and launch the app immediately:
 
-chmod +x setup.sh
-./setup.sh
-3. Launch the App Must be run with root privileges to write to USB hardware:
-
-Bash
-
+```bash
+git clone [https://github.com/masgroup2000/VioletBoot.git](https://github.com/masgroup2000/VioletBoot.git) && \
+cd VioletBoot && \
+chmod +x setup.sh && \
+./setup.sh && \
 sudo python3 VioletBoot.py
-🛠 Project Structure
-VioletBoot.py: The main application script.
-
-setup.sh: Automated installer for all Linux distros.
-
-requirements.txt: List of Python dependencies.
