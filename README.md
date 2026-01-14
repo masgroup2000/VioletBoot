@@ -12,11 +12,15 @@ Run this single block in your terminal to download, setup, and launch the app im
 ```bash
 git clone https://github.com/masgroup2000/VioletBoot.git
 ```
+```
 cd VioletBoot 
+```
 ```
 chmod +x setup.sh
 ```
+```
 ./setup.sh 
+```
 ```
 sudo python3 VioletBoot.py
 ```
