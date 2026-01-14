@@ -7,7 +7,7 @@ Violet Boot is a high performance tool built with Python and CustomTkinter to fl
 
 ## 🚀 Quick Start (Copy & Paste)
 
-Run this single block in your terminal to download, setup, and launch the app immediately:
+Run each block in your terminal to download, setup, and launch the app immediately:
 
 ```bash
 git clone https://github.com/masgroup2000/VioletBoot.git
